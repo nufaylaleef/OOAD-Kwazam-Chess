@@ -1,0 +1,29 @@
+Turn: 8
+RedMoved: false
+BlueMoved: true
+StartVal: 2
+sqa|sqa|b5a|b4a|b3a
+b1a|sqa|sqa|b1a|b1a
+sqa|r4a|b1a|sqa|sqa
+sqa|sqa|sqa|sqa|b2a
+sqa|b1a|sqa|sqa|sqa
+sqa|b4a|r1a|sqa|r1a
+r1a|sqa|sqa|sqa|sqa
+r3a|r4a|r5a|sqa|r2a
+BlueBiz (0,1) to (2,2)
+RedRam (6,3) to (5,3)
+BlueRam (1,1) to (2,1)
+RedRam (5,3) to (4,3)
+BlueBiz (2,2) eat (4,3)
+RedRam (6,2) to (5,2)
+BlueRam (2,1) to (3,1)
+RedRam (6,1) to (5,1)
+BlueRam (1,2) to (2,2)
+RedBiz (7,3) to (5,4)
+BlueTor (0,0) to (0,1)
+RedBiz (5,4) to (4,2)
+BlueRam (3,1) to (4,1)
+RedRam (6,4) to (5,4)
+BlueXor (0,1) to (3,4)
+RedBiz (4,2) to (2,1)
+BlueBiz (4,3) eat (5,1)
