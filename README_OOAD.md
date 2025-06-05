@@ -48,7 +48,7 @@ java run
 - ✅ **Sequence Diagrams** – Provided for all major actions like select, move, save, etc.
 - ✅ **User Documentation** – Step-by-step usage guide and troubleshooting.
 
-> Diagrams available in [project report PDF](./CCP6224_PROJECT_2410_TT7L_F.pdf)
+> Diagrams available in project report PDF (not uploaded)
 
 ## 👥 Team TT7L – Group F
 
